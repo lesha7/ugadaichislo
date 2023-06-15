@@ -1,0 +1,17 @@
+h1{
+    color: rgb(192, 34, 34);
+}
+#guess{
+    width: 40%;
+    padding: 8px;
+    font-size: 15px;
+    margin: 8px;
+    background-color: rgb(204, 204, 204);
+}
+button {
+    padding: 8px;
+    margin: 8px;
+    font-size: 15px;
+    color: rgb(192, 34, 34);
+    background-color: rgb(204, 204, 204);
+}
